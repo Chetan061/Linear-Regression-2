@@ -1,5 +1,5 @@
 # Linear-Regression-2
-Linear Regression income tas
+Linear Regression income task
 
 # Objective 
 Identify the Which Platform have more impact on Income .
